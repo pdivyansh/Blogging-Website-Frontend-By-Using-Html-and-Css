@@ -1,0 +1,27 @@
+.max-width-1 {
+    max-width: 80vw;
+
+}
+
+.max-width-2 {
+    max-width: 70vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.btn {
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.form-control {
+    padding: 3px;
+    border-radius: 7px;
+    border: 2px solid black;
+
+}
